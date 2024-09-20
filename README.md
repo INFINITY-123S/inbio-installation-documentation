@@ -28,5 +28,65 @@ Inbio is SEO Friendly, Clean, W3C Validate Markup, and Gutenberg Capabilities.<b
 
 It’s so pleasurable theme for its Awesome Unique Look and clean Markup. You can customize it easily without any coding knowledge.<br></p>
 <h2>Inbio – Main features:</h2>
+   <ul>
+        <li>One Page & Multi-page Ready</li>
+        <li>Dark & Light Demo</li>
+        <li>One Click Demo Import</li>
+        <li>Elementor Page Builder</li>
+        <li>Fully Drag & Drop</li>
+        <li>Powerful Theme Options and Page Options (100+)</li>
+        <li>It comes with 28+ Home Variation. More demos are coming</li>
+        <li>30+ custom widgets by inbio</li>
+        <li>Developer Friendly Code</li>
+        <li>Dynamic Contact Form</li>
+        <li>Gutenberg Capabilities</li>
+        <li>Awesome Unique Look</li>
+        <li>Fully Responsive</li>
+        <li>Advanced Particles</li>
+        <li>Carousel elements</li>
+        <li>Modal popup</li>
+        <li>Sticky Menu When Scrolling Down</li>
+        <li>Parallax and Video Background</li>
+        <li>FontAwesome Icons & Feather Icons</li>
+        <li>High-Speed Performance (99%)</li>
+        <li>Full SEO and Accessibility Support</li>
+        <li>Clean Markup</li>
+        <li>W3C Validate</li>
+        <li>Cross Browser Optimization</li>
+        <li>One Click Theme Color Changing Option</li>
+        <li>Unlimited Google Fonts</li>
+        <li>Detailed Documentation Included – View Here</li>
+        <li>Available inner pages</li>
+        <li>Modern Design</li>
+        <li>Very Easy to Use</li>
+        <li>Fast & Friendly Support</li>
+        <li>Outstanding Speed & Performance</li>
+        <li>Great For News/Blog Websites</li>
+        <li>Popups / Lightboxes</li>
+        <li>Widgets Ready</li>
+        <li>Included .pot file for easy translation</li>
+        <li>And much more …</li>
+    </ul>
+    <h2>Supports Your Favourite Plugins</h2>
+        <ul>
+        <li>Elementor</li>
+        <li>Elementor Pro</li>
+        <li>Essential Addons for Elementor</li>
+        <li>WooCommerce</li>
+        <li>WPML</li>
+        <li>Contact Form 7</li>
+        <li>Gravity Forms</li>
+        <li>Yoast SEO</li>
+        <li>Advanced Custom Fields</li>
+        <li>Custom Post Type UI</li>
+        <li>WP Super Cache</li>
+        <li>WP Rocket</li>
+        <li>UpdraftPlus Backup</li>
+        <li>iThemes Security</li>
+        <li>MonsterInsights</li>
+        <li>LiveChat</li>
+        <li>WP Mail SMTP</li>
+        <li>… and much more others!</li>
+    </ul>
   </body>
 </html>
