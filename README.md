@@ -18,7 +18,15 @@
     <img src="https://images-ext-1.discordapp.net/external/ivtOGbPA82UEfUxdogvUBhbzIpGyfSKyVSFHEoFK8Qc/https/camo.envatousercontent.com/f0d3ebbb397b6468414f248af88d671ad8997add/687474703a2f2f7261696e626f7769742e6e65742f7265736f757263652f77702f696e62696f2f7468656d652d6f7074696f6e732e6a7067" alt="alternatetext">
     <img src="https://images-ext-1.discordapp.net/external/HLsUPIgzQpHnLEUrhnHZOVyrLMLwhSbxRQ31velgPpQ/https/camo.envatousercontent.com/4024c10451244842120bba800f1db2a9b01264f9/687474703a2f2f7261696e626f7769742e6e65742f7265736f757263652f77702f696e62696f2f656c656d656e746f722d6275696c6465722e6a7067" alt="alternatetext">
     <img src="https://images-ext-1.discordapp.net/external/4Sk_vUKtYZsDBDd1W040JDucYVNr-7J7lHk3KeVszzU/https/camo.envatousercontent.com/78cdd0cf626139ac96849daeb78ed8dbe542df27/687474703a2f2f7261696e626f7769742e6e65742f7265736f757263652f77702f747279646f2f67757474656e6275672e6a7067" alt="alternatetext">
-    <img src="url" alt="alternatetext">
-    
+    <p>Welcome to InBio All in One personal portfolio WordPress Theme. It’s built with Elementor page builder.<br>
+
+It comes with 30+ home demo pages, other inner pages, awesome blogs, and 30+ custom widgets that fill up your needs with dark mode and white mode styles. It’s fully responsive and looks well. It is a modern design and high-speed performance WordPress Theme.<br>
+
+It has available developers, engineers, specialists, designers, content writers, Instructors, photographers, Freelancers, Politicians, Software engineers, Teachers, or some other needed inner or detailed pages availability.<br>
+
+Inbio is SEO Friendly, Clean, W3C Validate Markup, and Gutenberg Capabilities.<br>
+
+It’s so pleasurable theme for its Awesome Unique Look and clean Markup. You can customize it easily without any coding knowledge.<br></p>
+<h2>Inbio – Main features:</h2>
   </body>
 </html>
