@@ -88,5 +88,141 @@ It’s so pleasurable theme for its Awesome Unique Look and clean Markup. You ca
         <li>WP Mail SMTP</li>
         <li>… and much more others!</li>
     </ul>
+<h2>Pre-made Inner Pages</h2>
+    <ul>
+        <li>About</li>
+        <li>Portfolio</li>
+        <li>Services</li>
+        <li>Pricing</li>
+        <li>Blog</li>
+        <li>Contact</li>
+        <li>and more</li>
+    </ul>
+    <h2>Custom Addons</h2>
+        <ul>
+        <li>Section Title</li>
+        <li>About Me</li>
+        <li>About Me 2</li>
+        <li>Divider</li>
+        <li>Image Holder</li>
+        <li>Services Box</li>
+        <li>Portfolio</li>
+        <li>My Resume</li>
+        <li>Resume Library Tabs</li>
+        <li>Testimonial Carousel</li>
+        <li>Brand</li>
+        <li>Brand Library Tabs</li>
+        <li>Pricing Table</li>
+        <li>Pricing Table Tabs</li>
+        <li>Blog Post</li>
+        <li>Experience Boxes</li>
+        <li>Contact Info</li>
+        <li>List</li>
+        <li>Button</li>
+        <li>Progress Skill</li>
+        <li>Video Popup</li>
+        <li>About Tabs</li>
+        <li>Social Share / Skill</li>
+        <li>Image Carousel</li>
+        <li>Project Carousel</li>
+        <li>Services Repeater</li>
+    </ul>
+    <h2>News/Post Format</h2>
+        <ul>
+        <li>Standard – The default post format</li>
+        <li>Gallery – A gallery of images</li>
+        <li>Link – A link to another site</li>
+        <li>Quote – A quotation</li>
+        <li>Video – A post containing video</li>
+        <li>Audio – An audio file</li>
+    </ul>
+    <h2>Portfolio/News Single</h2>
+     <ul>
+        <li>Portfolio Load Single Page</li>
+        <li>Portfolio Load With Modal</li>
+        <li>Post Load Single Page</li>
+        <li>Post Load With Modal</li>
+    </ul>
+    <h2>Included in the purchase package</h2>
+    <ul>
+        <li>inbio.zip File</li>
+        <li>inbio-child.zip File</li>
+        <li>Required Plugins</li>
+        <li>Demo Data</li>
+        <li>Licensing</li>
+        <li>Documentation</li>
+    </ul>
+    <h2>Used Plugins</h2>
+     <ul>
+        <li><strong>Rainbow Elements</strong> – All the theme custom functionalities are handled by this plugin.</li>
+        <li><strong>Rainbowit Demo Importer Helper</strong> – One click demo contents importing handled by this plugin.</li>
+        <li><strong>Advanced Custom Fields PRO</strong> – Add fields on demand. Our field builder allows you to quickly and easily add fields to WP edit screens with only the click of a few buttons!</li>
+        <li><strong>Contact Form 7</strong> – Can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup.</li>
+        <li><strong>Elementor</strong> – Page Builder comes with an exclusive toolset, that lets you create a truly responsive website in a whole new and visual way.</li>
+        <li><strong>Redux Framework</strong> – Redux is a simple, truly extensible options framework for WordPress themes and plugins.</li>
+    </ul>
+    <h2>Fonts Used</h2>
+    <p>Poppins – https://fonts.google.com/specimen/Poppins?query=pop<br>
+Montserrat – https://fonts.google.com/specimen/Montserrat?query=mo</p>
+    <h2>Icons Used</h2>
+    <p>Feathericons – https://feathericons.com/<br>
+Fontawesome – https://fontawesome.com/icons?d=gallery</p>
+<h3>Note: All images are just used for preview purpose only.</h3>
+<h2>Pre-buy FAQ:</h2>
+<div class="faq-item">
+        <span class="question">Is Inbio theme installation easy?</span>
+        <p>Yes, we have a one-click demo installation feature, therefore installation is very easy. You can see our <a href="#">video installation tutorial here</a>.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Would it be ethically possible to create more than one website on more domains within the regular theme license?</span>
+        <p>To use the theme on another public domain, you need to purchase a separate regular license. Each license is applicable to one public domain only. For more information about regular licenses, please read this <a href="https://themeforest.net/licenses/terms/regular" target="_blank">article</a>.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Can I translate the theme?</span>
+        <p>Yes, all our themes are translation-ready. We have provided a .pot file for easy translation.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Can I change demo page layouts like delete sections or add new ones?</span>
+        <p>Yes, we use a drag-and-drop page builder, therefore you can add, edit, duplicate, or remove any section or element you want.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Does the theme provide full RTL support?</span>
+        <p>Yes, our theme has full RTL support. Just change the language at <strong>Settings > General</strong>, and the needed styles will apply automatically.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Can I mix up different demos?</span>
+        <p>Yes, you can install any demo that you want, and then import other demo homepage content.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Can I get updates regularly and for how long do I get updates?</span>
+        <p>Yes, you will be able to get FREE updates while the theme is available on ThemeForest.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Do you have online documentation?</span>
+        <p>Yes, please go to our <a href="#">online documentation</a>.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Is it compatible with WordPress Multisite?</span>
+        <p>Yes, it’s compatible with Multisite; no additional settings are required. Just install the theme on your network and start using it. It is important to note that each domain requires a regular license.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">Can this theme be used as a Multi-page site?</span>
+        <p>Yes, it’s compatible with multi-page; no additional settings are required.</p>
+    </div>
+    
+    <div class="faq-item">
+        <span class="question">How can I get customer support?</span>
+        <p>After purchasing the product, if you need any support, you can share it with us by creating a support ticket <a href="#">here</a>. Our support team will contact you soon.</p>
+    </div>
+
   </body>
 </html>
